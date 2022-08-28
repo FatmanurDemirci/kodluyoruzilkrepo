@@ -5,16 +5,16 @@
 ![Lorem Picsum Gorsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation
-'git clone https://github.com/FatmanurDemirci/kodluyoruzilkrepo.git'
+`git clone https://github.com/FatmanurDemirci/kodluyoruzilkrepo.git`
 
 ## Usage 
 
-'''
+```
 git clone kodluyoruzilkrepo
 
 code
 
-'''
+```
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
