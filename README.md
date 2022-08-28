@@ -5,7 +5,9 @@
 ![Lorem Picsum Gorsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation
-`git clone https://github.com/FatmanurDemirci/kodluyoruzilkrepo.git`
+```
+git clone https://github.com/FatmanurDemirci/kodluyoruzilkrepo.git
+```
 
 ## Usage 
 
